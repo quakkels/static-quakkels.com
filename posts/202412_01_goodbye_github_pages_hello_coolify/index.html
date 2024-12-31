@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="https://quakkels.com/">
+
+    
+    <meta name="robots" content="follow, index"/>    
+    <link rel="canonical" href="https://quakkels.com/posts/202412_01_goodbye_github_pages_hello_coolify/" />
+    
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+
+    <meta property="og:title" content="Goodbye Github Pages, Hello Coolify &middot; Quakkels.com" />
+    <meta property="og:description" content="Coolify is more than just a tool that lets me self host my blog. (It&#39;s definitely overkill for a static site like this.) Coolify facilitates so much more. It can manage applications like Laravel, Django, and Nextjs. It can spin up databases like Postgres, Mongo, and more. Do you need a service like Redis, or how about RabbitMQ? What about your own Docker Registry? Coolify can spin up and manage all of these. And it can automate deploys and notifications." />
+    <meta property="og:image" content="https://quakkels.com//images/coolifyquakkelsdotcom.png"> 
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Quakkels.com">
+    <meta property="og:url" content="https://quakkels.com/posts/202412_01_goodbye_github_pages_hello_coolify/">
+
+    <meta name="article:published_time" content="1735603200">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="Quakkels.com">
+    <meta name="twitter:title" content="Goodbye Github Pages, Hello Coolify &middot; Quakkels.com">
+    <meta name="twitter:description" content="Coolify is more than just a tool that lets me self host my blog. (It&#39;s definitely overkill for a static site like this.) Coolify facilitates so much more. It can manage applications like Laravel, Django, and Nextjs. It can spin up databases like Postgres, Mongo, and more. Do you need a service like Redis, or how about RabbitMQ? What about your own Docker Registry? Coolify can spin up and manage all of these. And it can automate deploys and notifications.">
+    <meta name="twitter:image" content="https://quakkels.com//images/coolifyquakkelsdotcom.png">
+
+
+    <title>Goodbye Github Pages, Hello Coolify &middot; Quakkels.com</title>
+    <link rel="shortcut icon" href="https://quakkels.com/images/favicon.ico">
+    <link rel="stylesheet" href="https://quakkels.com/css/style.css">
+    <link rel="canonical" href="https://quakkels.com/posts/202412_01_goodbye_github_pages_hello_coolify/">
+    <link href="https://quakkels.com/index.xml" rel="alternate" type="application/rss+xml" title="Quakkels.com" />
+</head>
+<body lang="en">
+<nav id="main-nav">
+    <a id="branding" href="https://quakkels.com/">Quakkels.com</a>
+    <div class="mobile-menu">
+        <div id="hamburger"><span></span></div>
+    </div>
+    <a href="https://quakkels.com/subscribe">Subscribe</a>
+    <a href="https://quakkels.com/">Posts</a>
+    <a href="https://quakkels.com/projects">Projects</a>
+    <a href="https://quakkels.com/about">About</a>
+    <a href="https://quakkels.com/training_log">Training Log</a>
+    <a class="rss" href="https://quakkels.com/index.xml">RSS Feed</a>
+</nav>
+<header id="home-header">
+    <h1>Goodbye Github Pages, Hello Coolify</h1>
+    
+    <h2>Dec 31, 2024</h2>
+    
+    
+    
+    <p>
+            <a href="https://quakkels.com/tags/computing">Computing</a>
+        
+            <a href="https://quakkels.com/tags/hobbies">Hobbies</a>
+        
+            <a href="https://quakkels.com/tags/system-administration">System Administration</a>
+        
+    </p>
+    
+    
+        <h3>By: Brandon Quakkelaar 
+        </h3>
+        
+    
+</header>
+<div class="main">
+<section class="wrapper">
+
+<img 
+    src="/images/coolifyquakkelsdotcom.png" alt="Screenshot of the Coolify web interface showing quakkels.com as a project." width="100%">
+
+
+<p>Quakkels.com has been hosted on Github Pages since February of 2017. And, for the last seven years and eleven months,
+I&rsquo;ve had no problem with any platform or host issues. Github Pages has been solid and dependable, and I still didn&rsquo;t like it.</p>
+<p>I don&rsquo;t like relying on &ldquo;big tech.&rdquo; I prefer my tools to be independent and under my control. Big tech has shown itself to be
+untrustworthy too many times for me. Github, like it or not, is Big Tech. Granted, my tolerance for Big Tech shenanigans
+is lower than most people&rsquo;s. Even so, if I can claw back a tiny bit of internet independence, I might as well.</p>
+<p>Quakkels.com is no longer hosted on Github Pages.</p>
+<p>Farewell to GP. The service was reliable and easy. But there&rsquo;s such great opportunity to use other things&hellip;</p>
+<p>&hellip;namely: <a target="_blank" rel="noopener" href="https://coolify.io"><strong>Coolify!</strong></a></p>
+<h2 id="hello-coolify">Hello Coolify</h2>
+<p>If you&rsquo;re not familiar with Coolify, it&rsquo;s an exciting new open-source project that supports my alternative approach to tech and
+the internet in general.</p>
+<p>Here&rsquo;s a quote from their docs:</p>
+<blockquote>
+<p>Coolify is an all-in one PaaS that helps you to self-host your own applications, databases
+or services (like Wordpress, Plausible Analytics, Ghost) without managing your servers and all
+the complexity that comes with it, it is also known as an open-source &amp; self-hostable Heroku / Netlify / Vercel alternative.</p>
+</blockquote>
+<p>This is music to my ears!</p>
+<p>I just finished migrating my Hugo driven blog to my own VPS managed by a self hosted Coolify instance. Coolify has impressive documentation
+and the Quickstart section got me up and running in no time.</p>
+<p>Coolify is more than just a tool that lets me self host my blog. (It&rsquo;s definitely overkill for a static site like this.) Coolify
+facilitates so much more. It can manage applications like Laravel, Django, and Nextjs. It can spin up databases like Postgres, Mongo, and more.
+Do you need a service like Redis, or how about RabbitMQ? What about your own Docker Registry? Coolify can spin up and manage all
+of these. And it can automate deploys and notifications.</p>
+<p>Some people might point out that none of what Coolify does is exclusive to Coolify. To that I&rsquo;d agree. You have at least two other options.
+One, you could use a Heroku, Vercel, AWS (etc) to host and manage your apps. And two, you could skip Coolify and setup your servers
+yourself, manage everything yourself, and you can create scripts and cron jobs to keep everything humming along nicely.</p>
+<p>I&rsquo;ll tell you why I&rsquo;m not going either route. I want to control my own server, but I also need to keep my bandwidth free for
+my family and my day job. I don&rsquo;t want to spend all my free time troubleshooting servers instead of writing and using
+the apps that I&rsquo;m hosting.</p>
+<p>Coolify helps minimize the amount of headache self-hosting can be, and I&rsquo;m very excited to have it. I&rsquo;m excited to learn about all
+it can do, and I&rsquo;m excited to start new personal projects. Maybe I&rsquo;ll host my own finance app, or FreshRSS reader, Minecraft server,
+or NextCloud. These are all options in Coolify&rsquo;s UI. And none of it will be data mined, or subject to the control of Big Tech.</p>
+<p>As 2024 ends and 2025 begins, I&rsquo;m excited to explore and build!</p>
+<h2 id="further-reading">Further Reading</h2>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://coolify.io">Coolify.io</a></li>
+<li><a target="_blank" rel="noopener" href="https://coolify.io/docs/">Coolify&rsquo;s Docs</a></li>
+</ul>
+
+<div id="sendComments">
+    <div>
+        Thank you for reading.
+        <br>Please share this post with a friend, and <a class="rss" href="https://quakkels.com/subscribe/">subscribe</a> to get notified of new posts.
+        <br>Comments may be sent to <a href="mailto:blog@quakkels.com">blog@quakkels.com</a>.
+    </div>
+</div>
+</section>
+</div>
+<div id="footer">
+    <div class="wrapper">
+
+
+  Check out articles with these tags:
+  <ul class="tags">
+    
+      <li><a href="/tags/book-club">book-club</a></li>
+    
+      <li><a href="/tags/computing">computing</a></li>
+    
+      <li><a href="/tags/culture">culture</a></li>
+    
+      <li><a href="/tags/fitness">fitness</a></li>
+    
+      <li><a href="/tags/hobbies">hobbies</a></li>
+    
+      <li><a href="/tags/original-fiction">original-fiction</a></li>
+    
+      <li><a href="/tags/philosophy">philosophy</a></li>
+    
+      <li><a href="/tags/programming">programming</a></li>
+    
+      <li><a href="/tags/superversive">superversive</a></li>
+    
+      <li><a href="/tags/system-administration">system-administration</a></li>
+    
+      <li><a href="/tags/tutorial">tutorial</a></li>
+    
+      <li><a href="/tags/virtues">virtues</a></li>
+    
+  </ul>
+
+
+    </div>
+</div>
+<script src="https://quakkels.com/js/site.js"></script>
+<script>
+var navElement = document.getElementById("main-nav");
+var menuButton = document.getElementById("hamburger");
+var mobileSize = 768;
+var menu = new Menu(window, navElement, menuButton, mobileSize);
+</script>
+<script async src="//static.getclicky.com/101328200.js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101328200ns.gif" /></p></noscript>

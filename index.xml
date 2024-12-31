@@ -6,7 +6,55 @@
     <description>Recent content on Quakkels.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://quakkels.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://quakkels.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goodbye Github Pages, Hello Coolify</title>
+      <link>https://quakkels.com/posts/202412_01_goodbye_github_pages_hello_coolify/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://quakkels.com/posts/202412_01_goodbye_github_pages_hello_coolify/</guid>
+      <description>&lt;p&gt;Quakkels.com has been hosted on Github Pages since February of 2017. And, for the last seven years and eleven months,
+I&amp;rsquo;ve had no problem with any platform or host issues. Github Pages has been solid and dependable, and I still didn&amp;rsquo;t like it.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t like relying on &amp;ldquo;big tech.&amp;rdquo; I prefer my tools to be independent and under my control. Big tech has shown itself to be
+untrustworthy too many times for me. Github, like it or not, is Big Tech. Granted, my tolerance for Big Tech shenanigans
+is lower than most people&amp;rsquo;s. Even so, if I can claw back a tiny bit of internet independence, I might as well.&lt;/p&gt;
+&lt;p&gt;Quakkels.com is no longer hosted on Github Pages.&lt;/p&gt;
+&lt;p&gt;Farewell to GP. The service was reliable and easy. But there&amp;rsquo;s such great opportunity to use other things&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&amp;hellip;namely: &lt;a target=&#34;_blank&#34; rel=&#34;noopener&#34; href=&#34;https://coolify.io&#34;&gt;&lt;strong&gt;Coolify!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;hello-coolify&#34;&gt;Hello Coolify&lt;/h2&gt;
+&lt;p&gt;If you&amp;rsquo;re not familiar with Coolify, it&amp;rsquo;s an exciting new open-source project that supports my alternative approach to tech and
+the internet in general.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a quote from their docs:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Coolify is an all-in one PaaS that helps you to self-host your own applications, databases
+or services (like Wordpress, Plausible Analytics, Ghost) without managing your servers and all
+the complexity that comes with it, it is also known as an open-source &amp;amp; self-hostable Heroku / Netlify / Vercel alternative.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is music to my ears!&lt;/p&gt;
+&lt;p&gt;I just finished migrating my Hugo driven blog to my own VPS managed by a self hosted Coolify instance. Coolify has impressive documentation
+and the Quickstart section got me up and running in no time.&lt;/p&gt;
+&lt;p&gt;Coolify is more than just a tool that lets me self host my blog. (It&amp;rsquo;s definitely overkill for a static site like this.) Coolify
+facilitates so much more. It can manage applications like Laravel, Django, and Nextjs. It can spin up databases like Postgres, Mongo, and more.
+Do you need a service like Redis, or how about RabbitMQ? What about your own Docker Registry? Coolify can spin up and manage all
+of these. And it can automate deploys and notifications.&lt;/p&gt;
+&lt;p&gt;Some people might point out that none of what Coolify does is exclusive to Coolify. To that I&amp;rsquo;d agree. You have at least two other options.
+One, you could use a Heroku, Vercel, AWS (etc) to host and manage your apps. And two, you could skip Coolify and setup your servers
+yourself, manage everything yourself, and you can create scripts and cron jobs to keep everything humming along nicely.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll tell you why I&amp;rsquo;m not going either route. I want to control my own server, but I also need to keep my bandwidth free for
+my family and my day job. I don&amp;rsquo;t want to spend all my free time troubleshooting servers instead of writing and using
+the apps that I&amp;rsquo;m hosting.&lt;/p&gt;
+&lt;p&gt;Coolify helps minimize the amount of headache self-hosting can be, and I&amp;rsquo;m very excited to have it. I&amp;rsquo;m excited to learn about all
+it can do, and I&amp;rsquo;m excited to start new personal projects. Maybe I&amp;rsquo;ll host my own finance app, or FreshRSS reader, Minecraft server,
+or NextCloud. These are all options in Coolify&amp;rsquo;s UI. And none of it will be data mined, or subject to the control of Big Tech.&lt;/p&gt;
+&lt;p&gt;As 2024 ends and 2025 begins, I&amp;rsquo;m excited to explore and build!&lt;/p&gt;
+&lt;h2 id=&#34;further-reading&#34;&gt;Further Reading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a target=&#34;_blank&#34; rel=&#34;noopener&#34; href=&#34;https://coolify.io&#34;&gt;Coolify.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target=&#34;_blank&#34; rel=&#34;noopener&#34; href=&#34;https://coolify.io/docs/&#34;&gt;Coolify&amp;rsquo;s Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
     <item>
       <title>Book Reviews for 2023 So Far</title>
       <link>https://quakkels.com/posts/202311_2_book_reviews_for_2023_so_far/</link>

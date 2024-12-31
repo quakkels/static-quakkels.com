@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://quakkels.com/tags/computing/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quakkels.com/posts/202412_01_goodbye_github_pages_hello_coolify/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quakkels.com/tags/hobbies/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quakkels.com/posts/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quakkels.com/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quakkels.com/tags/system-administration/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quakkels.com/tags/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://quakkels.com/tags/book-club/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quakkels.com/posts/202311_2_book_reviews_for_2023_so_far/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://quakkels.com/posts/</loc>
-    <lastmod>2023-11-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quakkels.com/</loc>
-    <lastmod>2023-11-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://quakkels.com/tags/superversive/</loc>
-    <lastmod>2023-11-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quakkels.com/tags/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quakkels.com/posts/202311_1_the_black_crown_book_review/</loc>
@@ -33,9 +45,6 @@
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quakkels.com/posts/202307_2_create_the_culture/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quakkels.com/tags/hobbies/</loc>
     <lastmod>2023-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quakkels.com/dl_202307_maliceatmidnight-2a6b/</loc>
@@ -58,9 +67,6 @@
   </url><url>
     <loc>https://quakkels.com/posts/202305_3_the_pilgrims_hope/</loc>
     <lastmod>2023-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quakkels.com/tags/computing/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quakkels.com/posts/202305_2_how_to_use_rss/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
@@ -453,9 +459,6 @@
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quakkels.com/posts/quakkels-dot-com-now-with-https/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quakkels.com/tags/system-administration/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quakkels.com/training_log/0043/</loc>
