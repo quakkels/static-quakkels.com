@@ -32,7 +32,7 @@ I recently decided to take down my hosted instance of RSS Discover Engine which 
       <pubDate>Fri, 27 Jan 2017 14:36:35 -0600</pubDate>
       
       <guid>https://quakkels.com/projects/roast-it/</guid>
-      <description>Roast.it is a simple JavaScript unit testing library designed for providing a fast feedback loop with minimal fuss. There are no frills here. No unnecessary dependencies. This will run unit tests for you from npm test. It will not get in your way.</description>
+      <description>Roast.it is a barebones JavaScript unit testing library designed for providing a fast feedback loop with minimal fuss. There are no frills here. No unnecessary dependencies. This will run unit tests for you from npm test. It will not get in your way.</description>
     </item>
     
   </channel>
