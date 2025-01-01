@@ -6,14 +6,24 @@
     <description>Recent content in Check Out My Projects on Quakkels.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://quakkels.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://quakkels.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MinimaCSS</title>
+      <link>https://quakkels.com/projects/minimacss/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://quakkels.com/projects/minimacss/</guid>
+      <description>MinimaCSS is a barebones CSS starter. It&amp;rsquo;s in the spirit of a boilerplate but meant to take a step beyond &amp;ldquo;just&amp;rdquo; boilerplate. Also, no builds are needed for this, because it&amp;rsquo;s good to know CSS. Here&amp;rsquo;s MinimaCSS&amp;rsquo;s git repository.</description>
+    </item>
+    
     <item>
       <title>RSS Discovery Engine</title>
       <link>https://quakkels.com/projects/rss-discovery-engine/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://quakkels.com/projects/rss-discovery-engine/</guid>
-      <description>RSS Discovery Engine was a fun project intended to encourage the use of RSS feeds. You can find the code on GitHub or try it out.</description>
+      <description>RSS Discovery Engine is a fun project intended to encourage the use of RSS feeds. You can find the code on GitHub.
+I recently decided to take down my hosted instance of RSS Discover Engine which once lived at rdengine.quakkels.com. It became a tool for bots, which isn&amp;rsquo;t entirely unexpected, but the app isn&amp;rsquo;t equiped to prevent such abuses in its current state.</description>
     </item>
     
     <item>

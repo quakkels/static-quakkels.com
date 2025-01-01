@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://quakkels.com/projects/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quakkels.com/projects/minimacss/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quakkels.com/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://quakkels.com/tags/computing/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,9 +21,6 @@
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quakkels.com/posts/</loc>
-    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quakkels.com/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quakkels.com/tags/system-administration/</loc>
@@ -465,9 +471,6 @@
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quakkels.com/training_log/0042/</loc>
-    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quakkels.com/projects/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quakkels.com/projects/rss-discovery-engine/</loc>
